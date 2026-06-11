@@ -8,7 +8,7 @@ The analysis reconstructs the CLD as a signed directed graph, enumerates and cla
 
 To reproduce the outputs, run the script from the repository root:
 
-source("scripts/cld_structural_analysis.R")
+source("QualitativeCLDAnalysis.R")
 
 The analysis requires the R package: igraph
 The script does not perform calibrated simulation, inverse-based Levins community-effect analysis, or impose diagonal self-effects/self-damping assumptions.
