@@ -11,4 +11,5 @@ To reproduce the outputs, run the script from the repository root:
 source("QualitativeCLDAnalysis.R")
 
 The analysis requires the R package: igraph
+
 The script does not perform calibrated simulation, inverse-based Levins community-effect analysis, or impose diagonal self-effects/self-damping assumptions.
