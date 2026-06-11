@@ -19,7 +19,7 @@
 # ==========================================================
 
 mdl_path <- "data/CLD-final.mdl"   # Specify the path to the Vensim .mdl file
-out_dir  <- "output"              # Specify the folder where output CSV files will be saved
+out_dir  <- "outputs"              # Specify the folder where output CSV files will be saved
 
 target_var <- "30-Day Readmission Rate"
 max_loop_length <- 16
